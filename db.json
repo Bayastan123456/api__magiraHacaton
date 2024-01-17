@@ -1,0 +1,39 @@
+{
+    "product": [
+      {
+        "name": "Aidar",
+        "number": "25",
+        "id": 1
+      },
+      {
+        "name": "bayas",
+        "number": "5",
+        "id": 2
+      },
+      {
+        "name": "jasmina",
+        "number": "99",
+        "id": 3
+      },
+      {
+        "name": "Akti",
+        "number": "52",
+        "id": 4
+      },
+      {
+        "name": "Amina",
+        "number": "11",
+        "id": 5
+      },
+      {
+        "name": "Islam",
+        "number": "44",
+        "id": 6
+      },
+      {
+        "name": "Ailaziya",
+        "number": "11",
+        "id": 7
+      }
+    ]
+  }
